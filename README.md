@@ -10,7 +10,7 @@
 
 ## 📋 Project Overview
 
-Hi, I'm **Emre**! This is my graduation project for the **Tech Istanbul Machine Learning Bootcamp**. The goal of this project is to predict employee attrition (whether an employee will leave the company or not) using various machine learning techniques. I wanted to build something that could actually be useful in a real HR department, so I focused on making the model not just accurate, but also interpretable and deployable.
+Hi, I'm **Emre Hacıhassan**! This is my graduation project for the **Tech Istanbul Machine Learning Bootcamp**. The goal of this project is to predict employee attrition (whether an employee will leave the company or not) using various machine learning techniques. I wanted to build something that could actually be useful in a real HR department, so I focused on making the model not just accurate, but also interpretable and deployable.
 
 Employee turnover is a significant challenge for companies - it costs time, money, and institutional knowledge. By predicting which employees are at risk of leaving, HR teams can take proactive measures to improve retention. That's the real-world problem I'm trying to solve here.
 
@@ -220,7 +220,7 @@ This project is created for educational purposes as part of Tech Istanbul Machin
 
 ## 📋 Proje Özeti
 
-Merhaba, ben **Emre**! Bu proje, **Tech Istanbul Makine Öğrenmesi Bootcamp** bitirme projem. Projenin amacı, çeşitli makine öğrenmesi teknikleri kullanarak çalışan kaybını (bir çalışanın şirketten ayrılıp ayrılmayacağını) tahmin etmek. Gerçek bir İK departmanında kullanılabilecek bir şey yapmak istedim, bu yüzden modelin sadece doğru değil, aynı zamanda yorumlanabilir ve üretime alınabilir olmasına odaklandım.
+Merhaba, ben **Emre Hacıhassan**! Bu proje, **Tech Istanbul Makine Öğrenmesi Bootcamp** bitirme projem. Projenin amacı, çeşitli makine öğrenmesi teknikleri kullanarak çalışan kaybını (bir çalışanın şirketten ayrılıp ayrılmayacağını) tahmin etmek. Gerçek bir İK departmanında kullanılabilecek bir şey yapmak istedim, bu yüzden modelin sadece doğru değil, aynı zamanda yorumlanabilir ve üretime alınabilir olmasına odaklandım.
 
 Çalışan devir hızı şirketler için önemli bir zorluk - zaman, para ve kurumsal bilgi kaybına neden oluyor. Hangi çalışanların ayrılma riski altında olduğunu tahmin ederek, İK ekipleri elde tutmayı iyileştirmek için proaktif önlemler alabilir. İşte çözmeye çalıştığım gerçek dünya problemi bu.
 
