@@ -1,0 +1,27 @@
+{
+    "model_name": "CatBoost",
+    "model_type": "CatBoostClassifier",
+    "training_date": "2026-01-02 18:05:02",
+    "n_features": 82,
+    "n_training_samples": 1972,
+    "class_distribution": {
+        "class_0": 986,
+        "class_1": 986
+    },
+    "test_metrics": {
+        "accuracy": 0.8775510204081632,
+        "precision": 0.7391304347826086,
+        "recall": 0.3617021276595745,
+        "f1_score": 0.4857142857142857,
+        "roc_auc": 0.7668188474459472
+    },
+    "best_parameters": {
+        "random_strength": 2,
+        "learning_rate": 0.05,
+        "l2_leaf_reg": 1,
+        "iterations": 100,
+        "depth": 10,
+        "border_count": 64,
+        "bagging_temperature": 0
+    }
+}
